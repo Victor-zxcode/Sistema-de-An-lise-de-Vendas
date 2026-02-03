@@ -1,4 +1,4 @@
-# Sistema-de-An-lise-de-Vendas
+# Sistema-de-Analise-de-Vendas
 📊 Análise de Desempenho de Vendas com NumPy
 Este projeto consiste em um script de análise de dados desenvolvido para otimizar a visualização de resultados de uma loja. Utilizando a biblioteca NumPy, o sistema processa grandes volumes de dados de vendas para extrair métricas estratégicas de forma eficiente.
 🚀 Funcionalidades
